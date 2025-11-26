@@ -16,7 +16,7 @@ Salida: Una lınea de texto por cada dıa de las semana que diga: Ruta seguida, 
 
 ## Metodología
 
-Observamos que cada línea del archivo es un mapa completo y se contituye un árbol completo para cada día de la semana. Por lo que se debe leer la línea que representa el mapa en formato de árbol y apartir de ésta, contruir dicho árbol para poder recorrerlo y arrojar el número de calles visitadas, la ruta seguida y el peso recolectado. 
+Observamos que cada línea del archivo es un mapa completo y se contituye un árbol completo de la ruta a seguir para cada día de la semana. Por lo que se debe leer la línea que representa el mapa en formato de árbol y apartir de ésta, contruir dicho árbol para poder recorrerlo y arrojar el número de calles visitadas, la ruta seguida y el peso recolectado. 
 
 Versión Iterativa
 
