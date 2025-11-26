@@ -18,6 +18,9 @@ Salida: Una lınea de texto por cada dıa de las semana que diga: Ruta seguida, 
 
 Observamos que cada línea del archivo es un mapa completo y se contituye un árbol completo de la ruta a seguir para cada día de la semana. Por lo que se debe leer la línea que representa el mapa en formato de árbol y apartir de ésta, contruir dicho árbol para poder recorrerlo y arrojar el número de calles visitadas, la ruta seguida y el peso recolectado. 
 
+Primero, se creo una clase donde se generan de forma aleatoria mapas de arboles que indican las rutas por donde tiene que pasar la recolección de paquetes con pesos aleatorios para cada día de la semana, con un número máximo de oficinas de 255, el minimo de peso igual a 1 y el peso maximo de 10. Cada linea representa un árbol de la siguiente manera:
+  (((3, (6, 6)), ((7, 3), (2, 5)))
+
 Versión Iterativa
 
 
