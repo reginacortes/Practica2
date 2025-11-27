@@ -24,6 +24,7 @@ donde (8, 2) es el subárbol izquierdo, (1, 5), 7) es el subárbol derecho y (1,
 
 El archivo que se genera en la clase GeneradorArbolesCorreos, se lee en la clase RecorridoCorreos y se cargan los árboles aleatorios de dicho archivo. Después se recorren dichos arboles con base a la ruta optima, es decir, el camino desde la raíz hasta la hoja donde se acumule el mayor peso total. 
 
+Una vez teniendo toda esta información, se procedió con el recorrido de cada uno de los arboles de forma iterativa y recursiva para poder comparar los tiempos de ejecución en los que tarda cada uno de los metodos. 
 
 ## Resultados 
 Gráfica - Versión Recursiva vs Version Iterativa 
