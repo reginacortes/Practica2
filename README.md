@@ -22,9 +22,17 @@ Primero, se creo una clase donde se generan de forma aleatoria mapas de arboles 
   ((8, 2), ((1, 5), 7))
 donde (8, 2) es el subárbol izquierdo, (1, 5), 7) es el subárbol derecho y (1, 5) es el subárbol dentro del derecho, es decir, 8,2,1,5,7 son las hojas del árbol, las oficinas y los nodos las calles. 
 
-El archivo que se genera en la clase GeneradorArbolesCorreos, se lee en la clase RecorridoCorreos y se cargan los árboles aleatorios de dicho archivo. 
+El archivo que se genera en la clase GeneradorArbolesCorreos, se lee en la clase RecorridoCorreos y se cargan los árboles aleatorios de dicho archivo. Después se recorren dichos arboles con base a la ruta optima, es decir, el camino desde la raíz hasta la hoja donde se acumule el mayor peso total. 
 
-Versión Iterativa
+
+## Resultados 
+Gráfica - Versión Recursiva vs Version Iterativa 
+<img width="600" height="371" alt="Iterativo vs Recursivo (seg)" src="https://github.com/user-attachments/assets/e2b7ef91-aa71-4b76-b9e3-642e8e14d9dd" />
+
+
+
+
+
 
 
 
