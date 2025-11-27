@@ -28,6 +28,8 @@ Una vez teniendo toda esta información, se procedió con el recorrido de cada u
 
 ## Resultados 
 Gráfica - Versión Recursiva vs Version Iterativa 
+
+
 <img width="600" height="371" alt="Iterativo vs Recursivo (seg)" src="https://github.com/user-attachments/assets/e2b7ef91-aa71-4b76-b9e3-642e8e14d9dd" />
 
 
